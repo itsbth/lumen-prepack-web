@@ -1,0 +1,9 @@
+{
+  "name": "tmp.6BjOVwQDBj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prepack": "^0.2.51"
+  }
+}

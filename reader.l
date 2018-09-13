@@ -43,7 +43,7 @@
         (if (= form eof) (break))
         (add l form)))))
 
-(define-global read-string (str more)
+(define read-string (str more)
   (let x (read (stream str more))
     (unless (= x eof) x)))
 
